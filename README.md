@@ -1,15 +1,28 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#0078D7;">Kanchana P</span></h1>
-<h3 align="center">💻 Data Analyst | Cybersecurity Learner | Tech Enthusiast from India 🇮🇳</h3>
+<h3 align="center">💻 Data Analyst | Tech Enthusiast from India 🇮🇳</h3>
 
 ---
 
 ### 🧭 About Me  
 - 🌍 Based in **India**  
 - 📧 Reach me at **[kanchanap595@gmail.com](mailto:kanchanap595@gmail.com)**  
-- 🎓 Currently exploring **Data Analytics**, **Machine Learning**, and **Cybersecurity**  
-- 💡 Passionate about turning **data into insights** and building **secure digital ecosystems**  
+- 🎓 Currently exploring **Data Analytics**, **Machine Learning**, and **AI**  
+- 💡 Passionate about turning **data into insights** and creating **smart solutions**  
 - ⚙️ Always learning and experimenting with **new technologies**  
 - ✨ Motto: *"Keep learning, keep evolving."*  
+
+---
+
+### 🧩 Core Computer Science Subjects  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Operating%20Systems-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-FF6F00?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2E8B57?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithm%20Design%20%26%20Analysis-8A2BE2?style=for-the-badge&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-FF1493?style=for-the-badge&logo=visualstudio&logoColor=white" />
+</p>
 
 ---
 
@@ -42,14 +55,6 @@
 #### 🧱 Databases & Cloud  
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></a>
-</p>
-
-#### 🛡️ Cybersecurity & Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network%20Security-005571?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 #### ⚙️ Development & Tools  
